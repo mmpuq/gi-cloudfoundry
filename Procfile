@@ -1,1 +1,1 @@
-web: ./differentbi/differentbi
+web: ./gi/differentbi
